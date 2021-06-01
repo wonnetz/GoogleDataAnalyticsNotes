@@ -1,0 +1,136 @@
+---
+title: 'Foundations: Data, Data, Everywhere'
+author: "Wonnetz Phanthavong"
+output: pdf_document
+urlcolor: blue
+---
+\begin{center}
+email: \textcolor{blue}{wonnetz@protonmail.com} \\
+linkedin: \textcolor{blue}{https://www.linkedin.com/in/wonnetz/}  
+\end{center}
+# Abstract
+Here you will find the notes that I've compiled on the first course of the Google Data Analytics Professional Certificate. There are 7 other courses in the sequence. It covers key data analytics topics, the ethics behind data analyitics, and the tools that data analysts use.
+
+In short bullet points, here are the specific points these notes cover. 
+
+* Data Analysis Process  
+* Data Life Cycle  
+* Ethics behind Data and Upholding Fairness in your Analysis  
+* Tools of the Trade: Spreadsheets, SQL, RStudio, Tablaeu  
+
+# Week 1: Introducing Data Analytics
+
+## Data Analysis Process
+1. Ask  
+How do we define the project that we would like to explore?  
+How do I define success for this project?  
+What outcomes would our leaders/managers like to see as a result of our analysis?
+
+2. Prepare  
+What would be an efficient timeline for this project?  
+What data do we need to answer these questions?  
+How can we gain access to this data?  
+What are the best ways that we can present this data visually?
+
+3. Process  
+How will the data be collected, stored, managed, and protected?  
+What steps are required to clean the data so that it is complete, correct, and relevant?  
+
+4. Analyze  
+What insights does the data tell us? What can we discover?  
+It is important to document your discovery, whether it be a positive one or a negative one.
+
+5. Share  
+What is the best way to VISUALIZE the results?  
+How can we bring the data to life?  
+What is the most effective way to communicate and share your report?  
+6. Act  
+How can you work with leaders within the company to implement this change and see lasting results?
+
+# Week 2: Introducing Analytical Thinking
+## Exploring Core Analytical Skills
+1. What is the root cause of the problem?
+2. Ask yourself "why" something is occurring 5 times.
+3. Where are the gaps in our process?  
+Understanding where you are now, to get where you want to be in the future. Then you can analyze the gaps and figure out how to bridge them.
+4. What have we not considered before?  
+What information or procedures are missing from a process?
+  
+# Week 3: Learning About Data Phases and Tools
+## Phases of the Data Life Cycle
+1. Planning  
+What kind of data do we need? Who will be responsible for the data? What are the optimal outcomeS?
+
+2. Capturing the Data  
+How do we collect the data? What outside resources do we have access to? How can we guarantee the safety of the data's integrity, credibility, and privacy?
+
+3. Managing  
+How and where will we store the data? What tools will we use to keep it safe and secure? What actions are taken to make sure that it's maintained properly?
+
+4. Analysis  
+How can we use the data to solve problems, make great decisions, and support business goals?
+
+5. Archive  
+How can we store the data in a place that is still available, but may not be accessed again?
+
+6. Destroy  
+What data erasure software can we use? Are there any physical data sources that need to be considered?
+
+## Phases of Data Analysis Process, Review
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
+
+## Example of the Data Process
+1. What is the problem that we're trying to solve? What are we hoping to learn?
+2. What type of data do we need to figure this out? Quantatitive Data vs. Qualitative Data.  
+Do we need to collect more data or do we already have the data?
+3. How can we clean the data to understand it better? Learning about the potential of this data. 
+4. What UNBIASED patterns can we recognize from the data? What does the data tell us versus what do we want to see?
+5. What is the landscape view that we want to convey? 
+6. All of this doesn't amount to much, if we can't implement what we've learned. How can we implement this at the organizational level AND the team level. 
+
+## Exploring Data Analyst Tools
+1. Spreadsheets  
+Microsoft Excel and Google Sheets  
+Functions and Formulas
+2. Query Languages for Databases  
+SQL, Structured Query Language
+3. Visualization Tools  
+Graphs, Maps, and Charts
+Tableau and Looker
+
+# Week 4: Setting Up a Data Toolbox
+
+## Learn About Sutrctured Query Language (SQL)
+SQL is used to interact with large databases, it emphasizes larger data sets than a spreadsheet could handle.  
+[Cheat Sheet for SQL](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa)
+
+## Data Visualization Tips
+Line charts can track attributes over time  
+Maps can connect attributes to locations  
+Donut charts can show portions/percentages of attributes  
+Bar charts can compare two different attributes  
+
+# Week 5: Introducing Data Analyst Career Posibilities 
+
+## Where do Data Analysts work?
+- Technology
+- Marketing
+- Finance
+- Health care
+
+## Different types of Analysts
+- Marketing Analyst: analyzes market conditions to assess the potential sales of products and services
+- Financial Analyst: analyzes financial status by collecting, monitoring, and reviewing data
+- Healthcare Analyst: analyzes medical data to improve the business aspect of hospitals and medical facilities
+- Mental Health Analyst (?)
+
+## Best Practices for Interviews
+- Keep your LinkedIn and GitHub updated
+- Reach out to recruiters 
+- Prepare to investigate a business problem with a small sample size of data
+
