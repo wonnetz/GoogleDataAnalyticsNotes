@@ -1,0 +1,165 @@
+---
+title: "Notes Share Data Through the Art of Visualization"
+author: "Wonnetz Phanthavong"
+output: pdf_document
+urlcolor: blue
+---
+
+\begin{center}
+email: \textcolor{blue}{wonnetz2@gmail.com.com} \\
+linkedin: \textcolor{blue}{https://www.linkedin.com/in/wonnetz/}  
+\end{center}
+
+# Abstract  
+- Data Visualization  
+- Data Visualizations with Tableau  
+- Stories about your Data  
+- Developing Presentations and Slideshows  
+
+# Week 1: Effective Data Visualizations  
+## Frameworks for Data Visualization  
+1. [McCandless Method](https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)  
+  - Information: the data you are working with  
+  - Story: a clear and compelling narrative or concept  
+  - Goal: a specific objective or function for the visual  
+  - Visual Form: an effective use of metaphor or visual expression  
+
+2. [Kaiser fung's Junk Charts Trifecta Checkup](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)  
+  - What is the practical question?  
+  - What does the data say?  
+  - What does the visual say?  
+
+## Design Principles  
+1. Choose the right visual  
+2. Optimize the data-link ratio  
+3. Use orientation effectively  
+4. Color  
+5. Number of things  
+
+## Basic Visualizations  
+- Bar Graphs; used to compare sets of data  
+- Line Graphs; changes over time  
+- Pie Charts; comparison to the whole  
+- Maps; geographical data  
+- Histogram; frequency of data in a certain range  
+- Correlation charts; shows relation among data  
+- Heat Maps; shows relationships between two variables using color  
+- Scatter Plots; shows relationships between two variables using points  
+
+## Eleemnts for Effective Visuals  
+- The visual has a clear meaning  
+- Sophisticated use of contrast  
+- Attention to minute details, refined execution  
+
+## Five Phases of a User-Centered Design Process  
+1. Emphasize  
+  - What are the emotions/needs of the stakeholders?  
+2. Design  
+  - What does the audience need from the data?  
+3. Ideate  
+  - Time to generate ideas for the data visualization.  
+4. Prototype  
+  - Mock visualization  
+5. Test  
+  - Recieve feedback on the prototype from team members
+  
+# Week 2: Data Visualizations with Tableau  
+
+[The Ultimate Cheat Sheet on Tableau Charts](https://towardsdatascience.com/the-ultimate-cheat-sheet-on-tableau-charts-642bca94dde5)
+
+This section was more hands on than conceptual.  
+
+# Week 3: Storytelling with Data  
+
+## What to consider when speaking to your audience?  
+- What role does this audience play?  
+- What is their stake in the project?  
+- What do they hope to get from the data insights I deliver?  
+
+## Compelling Presentation Tips  
+- Characters; who cares about this presentation?   
+- Setting; what is going on?  
+- Plot; what is the challenge?  
+- Big Reveal; this is how we solve the problem/challenge.  
+- Aha moment; this is why we think this will help solve the problem/challenge.    
+
+## When to copy and paste, link, or embed a visual in a presentation?  
+- Copy and Paste: this is more of a static visual  
+- Link: this will change when the other data changes  
+- Embed: this is independent of it's source and you can manipulate it outside of the data  
+
+# Week 4: Developing Presentations and Slideshows  
+
+## The McCandless Method for Presenting  
+1. Introduce the graphic by name  
+2. Answer obvious questions before they're asked  
+3. State the insight of your graphic  
+4. Call out data to support that insight  
+5. Tell your audience why it matters  
+
+## Example of a Messy Data Presentation  
+- No story or logical flow  
+- No titles  
+- Too much text  
+- Inconsistent format (no theme)  
+- No recommendation or conclusion at the end  
+
+## Example of a Good Data Presentation  
+- Title and date the presentation was updated  
+- Flow or table of contents  
+- Transition slides  
+- Visual introduction to the data  
+- Animated bullet points  
+- Annotations on top of visuals  
+- Logic and progression  
+- Limitations to the data (caveats)  
+
+
+## Presentation Tips  
+1. Know your flow  
+  - Who is your audience?  
+  - What is the purpose of my presentation?  
+2. Prepare talking points and limit text on slides  
+3. End with your pitch  
+4. Allow enough time for the presentation and questions  
+
+## Slide Deck Layout  
+- First Slide: Agenda  
+  - high-level bulleted list of topics you will cover  
+- Second Slide: Purpose  
+  - summarizes the project and why it is important  
+- Third Slide: Tell your data story  
+  - remember that stories have a beginning, middle, and end  
+- Fourth Slide: Make the Pitch  
+- Fifth Slide: Challenge the audience with a call to action  
+
+## Handling Objections  
+- About the data  
+  - Where did you get the data?  
+  - What systems did it come from?  
+  - What transformations happened to it?  
+  - How fresh and accurate is the data?  
+- About your analysis  
+  - Is your analysis reproducible?  
+  - Who did you get feedback from?  
+- About your finding  
+  - Do these findings exist in previous time periods?  
+  - Did you control for the differences in your data?  
+  
+## Responding to Possible Objections  
+- Communicate any assumptions  
+- Explain why your analysis might be different than expected  
+- Acknowledge that those objections are valid and take steps to investigate further  
+
+## Important Aspects to a Presentation  
+- Define your purpose  
+- Keep it concise  
+- Have some logical flow to your presentation  
+- Make the presentation visually compelling  
+- How easy is it to understand  
+
+
+
+
+
+
